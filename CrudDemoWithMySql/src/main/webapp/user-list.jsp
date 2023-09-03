@@ -30,7 +30,7 @@
 		<!-- <div class="alert alert-success" *ngIf='message'>{{message}}</div> -->
 
 		<div class="container">
-			<h3 class="text-center"> Sagar CI/CD DEV 2.0 </h3>
+			<h3 class="text-center"> Sagar CI/CD PROD 2.0 </h3>
 			<hr>
 			<div class="container text-left">
 
